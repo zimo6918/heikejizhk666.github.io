@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>黑科技工具屋博客</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://blog.314669.xyz/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://blog.314669.xyz/"/>
   <updated>2022-01-19T09:25:18.009Z</updated>
-  <id>http://example.com/</id>
+  <id>http://blog.314669.xyz/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>张贺凯</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>my-first-blog</title>
-    <link href="http://example.com/2022/01/19/my-first-blog/"/>
-    <id>http://example.com/2022/01/19/my-first-blog/</id>
+    <link href="http://blog.314669.xyz/2022/01/19/my-first-blog/"/>
+    <id>http://blog.314669.xyz/2022/01/19/my-first-blog/</id>
     <published>2022-01-19T09:25:17.000Z</published>
     <updated>2022-01-19T09:25:18.009Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/01/19/hello-world/"/>
-    <id>http://example.com/2022/01/19/hello-world/</id>
+    <link href="http://blog.314669.xyz/2022/01/19/hello-world/"/>
+    <id>http://blog.314669.xyz/2022/01/19/hello-world/</id>
     <published>2022-01-19T08:50:17.561Z</published>
     <updated>2022-01-19T08:50:17.561Z</updated>
     
